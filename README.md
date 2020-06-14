@@ -82,7 +82,7 @@ $ git reset --hard upstream/master
 $ git push origin master
 ```
 
-### 5. Ready Steady Go... :turtle: :rabbit2:
+### 5. Ready Steady Go... 
 
 Once you have completed these steps, you are ready to start contributing by checking our `Help Wanted` Issues and creating [pull requests](https://github.com/jainaman224/Algo_Ds_Notes/pulls).
 
